@@ -16,7 +16,7 @@
   },
   "bin": {
     "joel-cox": "index.js"
-  }
+  },
   "keywords": [
     "joel",
     "cox"
