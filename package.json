@@ -1,0 +1,30 @@
+{
+  "name": "joel-cox",
+  "version": "0.1.0",
+  "description": "Joel Cox, whoooooooo!",
+  "main": "index.js",
+  "dependencies": {
+    "shellscript": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshWyatt/joel-cox.git"
+  },
+  "bin": {
+    "joel-cox": "index.js"
+  }
+  "keywords": [
+    "joel",
+    "cox"
+  ],
+  "author": "josh wyatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshWyatt/joel-cox/issues"
+  },
+  "homepage": "https://github.com/joshWyatt/joel-cox"
+}
